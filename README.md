@@ -1,4 +1,4 @@
-### Hi there 👋 I am Oliveth Ndubuka, a Full Stack Developert and Blockchain Enthusiat. 
+### Hi there 👋 I am Oliveth Ndubuka, a Full Stack Developer and Blockchain Enthusiat. 
 ### I am passionate about HTML, CSS, C, Javscript, Solidity, Python, PHP, NodeJS, mongoDB, etc.
 
 I am currently enrolled in the ALX Software Programme - Cohort 5
